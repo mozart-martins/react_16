@@ -1,6 +1,6 @@
 ## Estudo do React.js 18
 
-Este estudo foi criado com o Vite:
+Todos os projetos deeste estudo foram criados com o Vite:
 
 > npm init vite@latest . -- --template react-ts
 
