@@ -1,6 +1,6 @@
 ## Estudo do React.js 18
 
-Todos os projetos deeste estudo foram criados com o Vite:
+Todos os projetos deste estudo foram criados com o Vite:
 
 > npm init vite@latest . -- --template react-ts
 
@@ -14,3 +14,11 @@ Entre em cada projeto e:
 
 > npm install
 > npx vite
+
+## Os projetos
+
+As ideias de projeto seguem uma ordem progressiva de dificuldade e sao majoritariamente retiradas de um video chamado "Code 15 React Projects - Complete Course" do canal freeCodeCamp.org do Youtube.
+
+[React Tutorial](https://youtu.be/iZhV0bILFb0)
+
+[Projects Site](https://react-projects.netlify.app/)
